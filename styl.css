@@ -23,7 +23,9 @@
     float: left;
 }
 li{
-    list-style: url(auto.png)
+    list-style: url(auto.png);
+    margin-left:20px;
+    margin-right: 20px;
 }
  a:link{
      color:brown;
@@ -33,4 +35,7 @@ li{
 }
  a:hover{
      color:red;
+}
+  a:active {
+      color:red;
 }

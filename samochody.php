@@ -46,7 +46,7 @@
  	<li>Opel</li>
  	<li>Mercedes</li>
 </ul>
-    Tu pobierzesz naszą <a href="baza.txt"> bazę danych</a>
+    Tu pobierzesz naszą<a href="baza.txt">bazę danych</a>
      <p>autor strony:00000000000</p>
  </div>
   </body>
