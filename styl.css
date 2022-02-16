@@ -27,15 +27,15 @@ li{
     margin-left:20px;
     margin-right: 20px;
 }
- a:link{
+a:link{
      color:brown;
 }
- a:visited{
+a:visited{
+     color:brown;
+}
+a:hover{
      color:red;
 }
- a:hover{
-     color:red;
-}
-  a:active {
+a:active {
       color:red;
 }
