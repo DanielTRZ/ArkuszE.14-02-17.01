@@ -1,0 +1,36 @@
+#baner{
+    background-color: #0B873D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+#lewy{
+    background-color: #8CE1AE;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+#srodkowy{
+    background-color: #5CCB89;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+#prawy{
+    background-color: #1DA956;
+    width: 20%;
+    height: 600px;
+    float: left;
+}
+li{
+    list-style: url(auto.png)
+}
+ a:link{
+     color:brown;
+}
+ a:visited{
+     color:red;
+}
+ a:hover{
+     color:red;
+}
