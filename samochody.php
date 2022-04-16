@@ -46,8 +46,7 @@
 			while($data = mysqli_fetch_assoc($q1))
 			{
 				echo '<ul>'.$data['id'].' '.$data['model'].' '.$data['telefon'].'</ul>';
-			}    
-     
+			}        
      ?>
  </div>
  <div id="prawy">
