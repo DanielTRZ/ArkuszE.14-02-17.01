@@ -6,7 +6,7 @@
   <title>Wynajmujemy Samochody</title>
   <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
   <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
-     <link rel="stylesheet" href="styl.css">
+  <link rel="stylesheet" href="styl.css">
   </head>
   <body>
 
