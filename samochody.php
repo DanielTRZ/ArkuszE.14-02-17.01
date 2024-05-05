@@ -11,7 +11,7 @@
   <body>
 
  <div id="baner">
-     <h1>Wyanjem Samochodów</h1>
+ <h1>Wyanjem Samochodów</h1>
  </div>
  <div id="lewy">
      <h2>DZIŚ POLECAMY TOYOTĘ ROCZNIK 2014</h2>
