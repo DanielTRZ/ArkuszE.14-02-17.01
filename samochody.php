@@ -17,7 +17,7 @@
      <h2>DZIŚ POLECAMY TOYOTĘ ROCZNIK 2014</h2>
      <?php
      $connect=mysqli_connect('localhost','root','','wynajem')or die ("Błąd połączenia :".mysqli_error());
-        $q1=mysqli_query($connect,'SELECT id, model, kolor FROM `samochody` WHERE rocznik = 2014 AND marka = "Toyota"'); 
+     $q1=mysqli_query($connect,'SELECT id, model, kolor FROM `samochody` WHERE rocznik = 2014 AND marka = "Toyota"'); 
 		
 			while($data = mysqli_fetch_assoc($q1))
 			{
