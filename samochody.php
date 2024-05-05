@@ -22,7 +22,7 @@
      while($data = mysqli_fetch_assoc($q1))
      {
      echo $data['id'].' '.'Toyota'.' '.$data['model'].' '.'Kolor:'.' '.$data['kolor'];
-			}
+     }
   
      ?>
      <h2>WSZYSTKIE DOSTĘPNE SAMOCHODY</h2>
