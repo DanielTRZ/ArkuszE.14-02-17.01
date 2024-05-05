@@ -3,7 +3,7 @@
 
   <head>
   <meta charset="utf-8">
-     <title>Wynajmujemy Samochody</title>
+  <title>Wynajmujemy Samochody</title>
      <meta name="description" content="Opis zawartości strony dla wyszukiwarek">
      <meta name="keywords" content="słowa, kluczowe, opisujące, zawartość">
      <link rel="stylesheet" href="styl.css">
