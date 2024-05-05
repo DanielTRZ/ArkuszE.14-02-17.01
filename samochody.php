@@ -21,7 +21,7 @@
 		
      while($data = mysqli_fetch_assoc($q1))
      {
-				echo $data['id'].' '.'Toyota'.' '.$data['model'].' '.'Kolor:'.' '.$data['kolor'];
+     echo $data['id'].' '.'Toyota'.' '.$data['model'].' '.'Kolor:'.' '.$data['kolor'];
 			}
   
      ?>
