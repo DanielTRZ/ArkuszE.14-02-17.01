@@ -55,7 +55,7 @@
  <ul>
  <li>Fiat</li>
  <li>Toyota</li>
- 	<li>Opel</li>
+ <li>Opel</li>
  	<li>Mercedes</li>
 </ul>
      Tu pobierzesz naszą<a href="baza.txt"> bazę danych</a>
