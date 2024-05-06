@@ -54,7 +54,7 @@
  <h2>NASZA OFERTA</h2>
  <ul>
  <li>Fiat</li>
- 	<li>Toyota</li>
+ <li>Toyota</li>
  	<li>Opel</li>
  	<li>Mercedes</li>
 </ul>
