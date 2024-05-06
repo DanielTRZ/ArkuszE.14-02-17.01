@@ -34,7 +34,7 @@
      while($data = mysqli_fetch_assoc($q1))
      {
      echo '<li>'.$data['id'].' '.$data['marka'].' '.$data['model'].' '.$data['rocznik'].'</li>';
-			}
+     }
      ?>
  </div>
  <div id="srodkowy">
