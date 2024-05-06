@@ -52,12 +52,14 @@
  <div id="prawy">
    
  <h2>NASZA OFERTA</h2>
+	 
  <ul>
  <li>Fiat</li>
  <li>Toyota</li>
  <li>Opel</li>
- 	<li>Mercedes</li>
-</ul>
+ <li>Mercedes</li>
+ </ul>
+	 
      Tu pobierzesz naszą<a href="baza.txt"> bazę danych</a>
      <p>autor strony:00000000000</p>
  </div>
