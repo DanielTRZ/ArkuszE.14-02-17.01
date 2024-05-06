@@ -31,7 +31,7 @@
      $connect=mysqli_connect('localhost','root','','wynajem')or die ("Błąd połączenia :".mysqli_error());
      $q1=mysqli_query($connect,'SELECT id, marka, model, rocznik FROM samochody'); 
 						
-			while($data = mysqli_fetch_assoc($q1))
+     while($data = mysqli_fetch_assoc($q1))
 			{
 				echo '<li>'.$data['id'].' '.$data['marka'].' '.$data['model'].' '.$data['rocznik'].'</li>';
 			}
