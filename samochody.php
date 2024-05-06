@@ -51,8 +51,8 @@
  </div>
  <div id="prawy">
    
-    <h2>NASZA OFERTA</h2>
-<ul>
+ <h2>NASZA OFERTA</h2>
+ <ul>
  	<li>Fiat</li>
  	<li>Toyota</li>
  	<li>Opel</li>
