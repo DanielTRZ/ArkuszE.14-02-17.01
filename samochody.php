@@ -63,5 +63,5 @@
  Tu pobierzesz naszą<a href="baza.txt"> bazę danych</a>
      <p>autor strony:00000000000</p>
  </div>
-  </body>
+ </body>
 </html>
